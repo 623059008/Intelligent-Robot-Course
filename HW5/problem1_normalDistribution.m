@@ -1,5 +1,4 @@
-%problem1 par1 
-%»­ÕýÌ«·Ö²¼Í¼
+
 
 clear all; clc ;
 x = -4:0.1:4;
